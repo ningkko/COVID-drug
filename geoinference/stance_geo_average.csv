@@ -1,0 +1,708 @@
+drug,wave,state,average_stance
+hcq,1,Alabama,0.359
+hcq,1,Alaska,0.3204
+hcq,1,Arizona,0.2591
+hcq,1,Arkansas,0.1797
+hcq,1,California,0.0418
+hcq,1,Colorado,0.1437
+hcq,1,Connecticut,0.029
+hcq,1,Delaware,0.0245
+hcq,1,District of Columbia,-0.2122
+hcq,1,Florida,0.2255
+hcq,1,Georgia,0.1599
+hcq,1,Hawaii,0.1814
+hcq,1,Idaho,0.3121
+hcq,1,Illinois,-0.0226
+hcq,1,Indiana,0.2673
+hcq,1,Iowa,-0.0562
+hcq,1,Kansas,0.1222
+hcq,1,Kentucky,0.2421
+hcq,1,Louisiana,0.3256
+hcq,1,Maine,0.219
+hcq,1,Maryland,-0.0372
+hcq,1,Massachusetts,-0.0759
+hcq,1,Michigan,0.2296
+hcq,1,Minnesota,0.0277
+hcq,1,Mississippi,0.2746
+hcq,1,Missouri,0.1771
+hcq,1,Montana,0.1963
+hcq,1,Nebraska,0.0768
+hcq,1,Nevada,0.3273
+hcq,1,New Hampshire,0.0523
+hcq,1,New Jersey,0.1902
+hcq,1,New Mexico,0.1554
+hcq,1,New York,-0.0609
+hcq,1,North Carolina,0.1086
+hcq,1,North Dakota,0.0719
+hcq,1,Ohio,0.1755
+hcq,1,Oklahoma,0.1937
+hcq,1,Oregon,-0.0653
+hcq,1,Pennsylvania,0.0349
+hcq,1,Rhode Island,0.0152
+hcq,1,South Carolina,0.3436
+hcq,1,South Dakota,0.0274
+hcq,1,Tennessee,0.2789
+hcq,1,Texas,0.3449
+hcq,1,Utah,0.1344
+hcq,1,Vermont,-0.1394
+hcq,1,Virginia,0.1603
+hcq,1,Washington,-0.1498
+hcq,1,West Virginia,0.1541
+hcq,1,Wisconsin,0.0991
+hcq,1,Wyoming,0.6262
+hcq,2,Alabama,0.4488
+hcq,2,Alaska,0.2273
+hcq,2,Arizona,0.3214
+hcq,2,Arkansas,0.3129
+hcq,2,California,0.101
+hcq,2,Colorado,0.1124
+hcq,2,Connecticut,0.2613
+hcq,2,Delaware,0.1277
+hcq,2,District of Columbia,-0.0181
+hcq,2,Florida,0.3024
+hcq,2,Georgia,0.1963
+hcq,2,Hawaii,0.0667
+hcq,2,Idaho,0.2013
+hcq,2,Illinois,0.046
+hcq,2,Indiana,0.2302
+hcq,2,Iowa,0.0783
+hcq,2,Kansas,0.3826
+hcq,2,Kentucky,0.3363
+hcq,2,Louisiana,0.205
+hcq,2,Maine,0.2258
+hcq,2,Maryland,-0.0159
+hcq,2,Massachusetts,-0.0428
+hcq,2,Michigan,0.2968
+hcq,2,Minnesota,0.004
+hcq,2,Mississippi,0.1136
+hcq,2,Missouri,0.1315
+hcq,2,Montana,0.043
+hcq,2,Nebraska,0.279
+hcq,2,Nevada,0.3797
+hcq,2,New Hampshire,0.0578
+hcq,2,New Jersey,0.1562
+hcq,2,New Mexico,0.0077
+hcq,2,New York,-0.0142
+hcq,2,North Carolina,0.1528
+hcq,2,North Dakota,0.0
+hcq,2,Ohio,0.4269
+hcq,2,Oklahoma,0.1683
+hcq,2,Oregon,-0.0948
+hcq,2,Pennsylvania,0.1368
+hcq,2,Rhode Island,0.08
+hcq,2,South Carolina,0.1423
+hcq,2,South Dakota,-0.0723
+hcq,2,Tennessee,0.2756
+hcq,2,Texas,0.2664
+hcq,2,Utah,0.163
+hcq,2,Vermont,-0.1111
+hcq,2,Virginia,0.1512
+hcq,2,Washington,-0.1805
+hcq,2,West Virginia,0.1047
+hcq,2,Wisconsin,-0.0442
+hcq,2,Wyoming,0.6923
+hcq,3,Alabama,0.3308
+hcq,3,Alaska,-0.037
+hcq,3,Arizona,0.3188
+hcq,3,Arkansas,0.1034
+hcq,3,California,0.1123
+hcq,3,Colorado,0.1357
+hcq,3,Connecticut,0.2614
+hcq,3,Delaware,0.05
+hcq,3,District of Columbia,-0.0806
+hcq,3,Florida,0.3169
+hcq,3,Georgia,0.2893
+hcq,3,Hawaii,0.4483
+hcq,3,Idaho,0.2586
+hcq,3,Illinois,0.0619
+hcq,3,Indiana,0.2119
+hcq,3,Iowa,0.1304
+hcq,3,Kansas,0.0875
+hcq,3,Kentucky,0.2135
+hcq,3,Louisiana,0.5078
+hcq,3,Maine,0.2917
+hcq,3,Maryland,0.0547
+hcq,3,Massachusetts,-0.0195
+hcq,3,Michigan,0.2358
+hcq,3,Minnesota,0.1796
+hcq,3,Mississippi,0.2308
+hcq,3,Missouri,0.1356
+hcq,3,Montana,-0.2857
+hcq,3,Nebraska,0.2075
+hcq,3,Nevada,0.4
+hcq,3,New Hampshire,0.098
+hcq,3,New Jersey,0.2604
+hcq,3,New Mexico,0.1489
+hcq,3,New York,0.209
+hcq,3,North Carolina,0.1626
+hcq,3,North Dakota,0.2174
+hcq,3,Ohio,0.2197
+hcq,3,Oklahoma,0.1917
+hcq,3,Oregon,-0.1643
+hcq,3,Pennsylvania,0.1486
+hcq,3,Rhode Island,0.0
+hcq,3,South Carolina,0.3204
+hcq,3,South Dakota,-0.0588
+hcq,3,Tennessee,0.3745
+hcq,3,Texas,0.2433
+hcq,3,Utah,-0.0725
+hcq,3,Vermont,0.1212
+hcq,3,Virginia,0.2162
+hcq,3,Washington,0.1162
+hcq,3,West Virginia,0.0
+hcq,3,Wisconsin,-0.0093
+hcq,3,Wyoming,0.0
+ivermectin,1,AK,1.0
+ivermectin,1,AL,0.2
+ivermectin,1,AR,1.0
+ivermectin,1,AZ,0.75
+ivermectin,1,Alabama,0.7021
+ivermectin,1,Alaska,0.3333
+ivermectin,1,Arizona,0.6184
+ivermectin,1,Arkansas,0.1111
+ivermectin,1,CA,0.6042
+ivermectin,1,CO,0.4444
+ivermectin,1,CT,0.0
+ivermectin,1,California,0.7289
+ivermectin,1,Colorado,0.5714
+ivermectin,1,Connecticut,1.0
+ivermectin,1,DE,1.0
+ivermectin,1,Delaware,1.0
+ivermectin,1,District of Columbia,0.2857
+ivermectin,1,FL,0.8032
+ivermectin,1,Florida,0.7358
+ivermectin,1,GA,0.5294
+ivermectin,1,Georgia,0.5556
+ivermectin,1,HI,0.9565
+ivermectin,1,Hawaii,0.8333
+ivermectin,1,ID,1.0
+ivermectin,1,IL,-0.05
+ivermectin,1,IN,0.4138
+ivermectin,1,Idaho,0.5
+ivermectin,1,Illinois,0.1818
+ivermectin,1,Indiana,0.5152
+ivermectin,1,Iowa,0.5714
+ivermectin,1,KS,1.0
+ivermectin,1,KY,0.1667
+ivermectin,1,Kansas,0.6
+ivermectin,1,Kentucky,0.3846
+ivermectin,1,LA,0.5625
+ivermectin,1,Louisiana,0.5
+ivermectin,1,MA,0.3395
+ivermectin,1,MD,-0.25
+ivermectin,1,ME,1.0
+ivermectin,1,MI,0.375
+ivermectin,1,MN,1.0
+ivermectin,1,MO,-0.3
+ivermectin,1,MS,1.0
+ivermectin,1,MT,1.0
+ivermectin,1,Maine,1.0
+ivermectin,1,Maryland,0.5128
+ivermectin,1,Massachusetts,0.2818
+ivermectin,1,Michigan,0.5769
+ivermectin,1,Minnesota,0.6
+ivermectin,1,Mississippi,0.5385
+ivermectin,1,Missouri,0.25
+ivermectin,1,Montana,0.5
+ivermectin,1,NC,0.85
+ivermectin,1,ND,1.0
+ivermectin,1,NE,0.0
+ivermectin,1,NJ,0.6667
+ivermectin,1,NM,0.5
+ivermectin,1,NY,0.2069
+ivermectin,1,Nebraska,0.3333
+ivermectin,1,Nevada,0.9412
+ivermectin,1,New Hampshire,0.0
+ivermectin,1,New Jersey,0.7
+ivermectin,1,New Mexico,0.125
+ivermectin,1,New York,0.4198
+ivermectin,1,North Carolina,0.9057
+ivermectin,1,North Dakota,1.0
+ivermectin,1,OH,0.5882
+ivermectin,1,OK,1.0
+ivermectin,1,OR,0.5
+ivermectin,1,Ohio,0.5645
+ivermectin,1,Oklahoma,1.0
+ivermectin,1,Oregon,0.45
+ivermectin,1,PA,0.6111
+ivermectin,1,Pennsylvania,0.5641
+ivermectin,1,Rhode Island,0.7143
+ivermectin,1,SC,0.2
+ivermectin,1,SD,-0.6667
+ivermectin,1,South Carolina,0.5
+ivermectin,1,South Dakota,0.25
+ivermectin,1,TN,0.5714
+ivermectin,1,TX,0.5517
+ivermectin,1,Tennessee,0.35
+ivermectin,1,Texas,0.594
+ivermectin,1,UT,0.0714
+ivermectin,1,Utah,0.2556
+ivermectin,1,VA,0.5714
+ivermectin,1,VT,1.0
+ivermectin,1,Vermont,-0.1429
+ivermectin,1,Virginia,0.675
+ivermectin,1,WA,0.5714
+ivermectin,1,WI,0.4286
+ivermectin,1,WY,0.5
+ivermectin,1,Washington,0.5345
+ivermectin,1,West Virginia,0.5
+ivermectin,1,Wisconsin,0.5
+ivermectin,1,Wyoming,0.5
+ivermectin,2,AK,-0.1111
+ivermectin,2,AL,0.4368
+ivermectin,2,AR,0.4219
+ivermectin,2,AZ,0.5414
+ivermectin,2,Alabama,0.5281
+ivermectin,2,Alaska,0.1798
+ivermectin,2,Arizona,0.5634
+ivermectin,2,Arkansas,0.33
+ivermectin,2,CA,0.4391
+ivermectin,2,CO,0.4524
+ivermectin,2,CT,0.5344
+ivermectin,2,California,0.497
+ivermectin,2,Colorado,0.4288
+ivermectin,2,Connecticut,0.3603
+ivermectin,2,DE,0.25
+ivermectin,2,Delaware,0.36
+ivermectin,2,District of Columbia,0.4098
+ivermectin,2,FL,0.6063
+ivermectin,2,Florida,0.5955
+ivermectin,2,GA,0.4211
+ivermectin,2,Georgia,0.5418
+ivermectin,2,HI,0.6581
+ivermectin,2,Hawaii,0.617
+ivermectin,2,IA,0.0
+ivermectin,2,ID,0.2424
+ivermectin,2,IL,0.4143
+ivermectin,2,IN,0.5132
+ivermectin,2,Idaho,0.25
+ivermectin,2,Illinois,0.4167
+ivermectin,2,Indiana,0.4986
+ivermectin,2,Iowa,0.3134
+ivermectin,2,KS,0.5556
+ivermectin,2,KY,0.7105
+ivermectin,2,Kansas,0.4957
+ivermectin,2,Kentucky,0.6508
+ivermectin,2,LA,0.2203
+ivermectin,2,Louisiana,0.4286
+ivermectin,2,MA,0.3949
+ivermectin,2,MD,0.2635
+ivermectin,2,ME,0.8
+ivermectin,2,MI,0.4511
+ivermectin,2,MN,0.3415
+ivermectin,2,MO,0.3269
+ivermectin,2,MS,0.3103
+ivermectin,2,MT,0.3953
+ivermectin,2,Maine,0.4463
+ivermectin,2,Maryland,0.2564
+ivermectin,2,Massachusetts,0.633
+ivermectin,2,Michigan,0.3883
+ivermectin,2,Minnesota,0.3511
+ivermectin,2,Mississippi,0.5604
+ivermectin,2,Missouri,0.3302
+ivermectin,2,Montana,0.513
+ivermectin,2,NC,0.2748
+ivermectin,2,ND,0.5556
+ivermectin,2,NE,0.0556
+ivermectin,2,NH,0.4237
+ivermectin,2,NJ,0.4424
+ivermectin,2,NM,0.4615
+ivermectin,2,NY,0.6785
+ivermectin,2,Nebraska,0.3974
+ivermectin,2,Nevada,0.3333
+ivermectin,2,New Hampshire,0.6075
+ivermectin,2,New Jersey,0.4053
+ivermectin,2,New Mexico,0.4094
+ivermectin,2,New York,0.573
+ivermectin,2,North Carolina,0.464
+ivermectin,2,North Dakota,0.25
+ivermectin,2,OH,0.2889
+ivermectin,2,OK,0.5
+ivermectin,2,OR,0.4535
+ivermectin,2,Ohio,0.3425
+ivermectin,2,Oklahoma,0.4639
+ivermectin,2,Oregon,0.4878
+ivermectin,2,PA,0.3891
+ivermectin,2,Pennsylvania,0.3084
+ivermectin,2,Rhode Island,0.1327
+ivermectin,2,SC,0.3868
+ivermectin,2,SD,0.0
+ivermectin,2,South Carolina,0.5257
+ivermectin,2,South Dakota,0.3333
+ivermectin,2,TN,0.7035
+ivermectin,2,TX,0.4054
+ivermectin,2,Tennessee,0.5628
+ivermectin,2,Texas,0.4917
+ivermectin,2,UT,0.4706
+ivermectin,2,Utah,0.3096
+ivermectin,2,VA,0.2019
+ivermectin,2,VT,0.8235
+ivermectin,2,Vermont,0.596
+ivermectin,2,Virginia,0.3486
+ivermectin,2,WA,0.411
+ivermectin,2,WI,0.4372
+ivermectin,2,WY,0.6667
+ivermectin,2,Washington,0.4675
+ivermectin,2,West Virginia,0.581
+ivermectin,2,Wisconsin,0.4124
+ivermectin,2,Wyoming,0.85
+ivermectin,3,AK,0.0745
+ivermectin,3,AL,0.0546
+ivermectin,3,AR,0.057
+ivermectin,3,AZ,0.0582
+ivermectin,3,Alabama,0.0718
+ivermectin,3,Alaska,-0.046
+ivermectin,3,Arizona,0.109
+ivermectin,3,Arkansas,0.0913
+ivermectin,3,CA,0.0506
+ivermectin,3,CO,0.0219
+ivermectin,3,CT,0.1561
+ivermectin,3,California,0.0594
+ivermectin,3,Colorado,0.0031
+ivermectin,3,Connecticut,-0.0153
+ivermectin,3,DE,0.043
+ivermectin,3,Delaware,0.1153
+ivermectin,3,District of Columbia,-0.0646
+ivermectin,3,FL,0.1923
+ivermectin,3,Florida,0.2063
+ivermectin,3,GA,0.0295
+ivermectin,3,Georgia,0.1116
+ivermectin,3,HI,0.5437
+ivermectin,3,Hawaii,0.3993
+ivermectin,3,IA,-0.0904
+ivermectin,3,ID,-0.0213
+ivermectin,3,IL,-0.1038
+ivermectin,3,IN,0.0656
+ivermectin,3,Idaho,0.1416
+ivermectin,3,Illinois,-0.0688
+ivermectin,3,Indiana,0.0582
+ivermectin,3,Iowa,-0.0593
+ivermectin,3,KS,-0.0031
+ivermectin,3,KY,-0.0485
+ivermectin,3,Kansas,-0.0199
+ivermectin,3,Kentucky,-0.0007
+ivermectin,3,LA,-0.0876
+ivermectin,3,Louisiana,0.0447
+ivermectin,3,MA,-0.0279
+ivermectin,3,MD,-0.0363
+ivermectin,3,ME,-0.0172
+ivermectin,3,MI,0.041
+ivermectin,3,MN,-0.0548
+ivermectin,3,MO,0.0132
+ivermectin,3,MS,-0.1449
+ivermectin,3,MT,0.069
+ivermectin,3,Maine,0.0831
+ivermectin,3,Maryland,-0.0704
+ivermectin,3,Massachusetts,0.0903
+ivermectin,3,Michigan,0.0233
+ivermectin,3,Minnesota,0.0101
+ivermectin,3,Mississippi,0.0475
+ivermectin,3,Missouri,0.1163
+ivermectin,3,Montana,0.1302
+ivermectin,3,NC,-0.0226
+ivermectin,3,ND,-0.1148
+ivermectin,3,NE,-0.1355
+ivermectin,3,NH,0.1092
+ivermectin,3,NJ,0.0174
+ivermectin,3,NM,0.1039
+ivermectin,3,NY,0.1474
+ivermectin,3,Nebraska,-0.0727
+ivermectin,3,Nevada,0.0787
+ivermectin,3,New Hampshire,0.137
+ivermectin,3,New Jersey,0.0575
+ivermectin,3,New Mexico,-0.0646
+ivermectin,3,New York,0.0175
+ivermectin,3,North Carolina,0.0842
+ivermectin,3,North Dakota,0.0875
+ivermectin,3,OH,0.0651
+ivermectin,3,OK,0.0412
+ivermectin,3,OR,-0.0211
+ivermectin,3,Ohio,0.0608
+ivermectin,3,Oklahoma,0.1248
+ivermectin,3,Oregon,0.0077
+ivermectin,3,PA,0.0319
+ivermectin,3,Pennsylvania,0.0037
+ivermectin,3,Rhode Island,-0.0808
+ivermectin,3,SC,-0.043
+ivermectin,3,SD,0.0
+ivermectin,3,South Carolina,0.0979
+ivermectin,3,South Dakota,0.0224
+ivermectin,3,TN,0.119
+ivermectin,3,TX,0.0765
+ivermectin,3,Tennessee,0.1219
+ivermectin,3,Texas,0.1903
+ivermectin,3,UT,0.0069
+ivermectin,3,Utah,0.0789
+ivermectin,3,VA,0.0044
+ivermectin,3,VT,-0.0444
+ivermectin,3,Vermont,-0.0049
+ivermectin,3,Virginia,0.0803
+ivermectin,3,WA,-0.0535
+ivermectin,3,WI,-0.0418
+ivermectin,3,WY,0.0588
+ivermectin,3,Washington,-0.0552
+ivermectin,3,West Virginia,0.1305
+ivermectin,3,Wisconsin,-0.0532
+ivermectin,3,Wyoming,0.1212
+molnupiravir,1,California,0.3333
+molnupiravir,1,Colorado,0.5
+molnupiravir,1,District of Columbia,0.5
+molnupiravir,1,Illinois,0.0
+molnupiravir,1,Massachusetts,1.0
+molnupiravir,1,Michigan,1.0
+molnupiravir,1,New Jersey,0.0
+molnupiravir,1,New Mexico,-1.0
+molnupiravir,1,New York,0.4
+molnupiravir,1,North Carolina,0.0
+molnupiravir,1,Oregon,1.0
+molnupiravir,1,Pennsylvania,0.0
+molnupiravir,1,Virginia,-1.0
+molnupiravir,1,West Virginia,-1.0
+molnupiravir,2,Alabama,1.0
+molnupiravir,2,Alaska,1.0
+molnupiravir,2,Arizona,0.5
+molnupiravir,2,Arkansas,0.5
+molnupiravir,2,California,0.5049
+molnupiravir,2,Colorado,-0.1667
+molnupiravir,2,Connecticut,0.1667
+molnupiravir,2,Delaware,0.0
+molnupiravir,2,District of Columbia,0.1351
+molnupiravir,2,Florida,0.5625
+molnupiravir,2,Georgia,0.4722
+molnupiravir,2,Hawaii,0.6667
+molnupiravir,2,Idaho,1.0
+molnupiravir,2,Illinois,0.5
+molnupiravir,2,Indiana,0.3333
+molnupiravir,2,Kansas,0.0
+molnupiravir,2,Kentucky,0.6667
+molnupiravir,2,Maine,1.0
+molnupiravir,2,Maryland,0.5
+molnupiravir,2,Massachusetts,0.4
+molnupiravir,2,Michigan,0.75
+molnupiravir,2,Minnesota,-0.5
+molnupiravir,2,Missouri,0.625
+molnupiravir,2,Nebraska,0.5
+molnupiravir,2,Nevada,0.4545
+molnupiravir,2,New Hampshire,0.0
+molnupiravir,2,New Jersey,0.0769
+molnupiravir,2,New Mexico,0.0
+molnupiravir,2,New York,0.2971
+molnupiravir,2,North Carolina,0.4138
+molnupiravir,2,Ohio,0.2222
+molnupiravir,2,Oklahoma,0.6667
+molnupiravir,2,Oregon,0.5
+molnupiravir,2,Pennsylvania,0.4815
+molnupiravir,2,Rhode Island,1.0
+molnupiravir,2,South Carolina,0.0
+molnupiravir,2,Tennessee,0.6
+molnupiravir,2,Texas,0.4231
+molnupiravir,2,Utah,0.2222
+molnupiravir,2,Vermont,0.5
+molnupiravir,2,Virginia,0.5
+molnupiravir,2,Washington,0.4444
+molnupiravir,2,West Virginia,-1.0
+molnupiravir,2,Wisconsin,0.4
+molnupiravir,3,Alabama,0.3947
+molnupiravir,3,Alaska,0.5
+molnupiravir,3,Arizona,0.1887
+molnupiravir,3,Arkansas,0.36
+molnupiravir,3,California,0.3754
+molnupiravir,3,Colorado,0.0114
+molnupiravir,3,Connecticut,0.551
+molnupiravir,3,Delaware,0.6364
+molnupiravir,3,District of Columbia,0.4427
+molnupiravir,3,Florida,0.3397
+molnupiravir,3,Georgia,0.4379
+molnupiravir,3,Hawaii,0.0303
+molnupiravir,3,Idaho,0.4
+molnupiravir,3,Illinois,0.4884
+molnupiravir,3,Indiana,0.62
+molnupiravir,3,Iowa,0.4737
+molnupiravir,3,Kansas,0.0
+molnupiravir,3,Kentucky,0.3125
+molnupiravir,3,Louisiana,0.4865
+molnupiravir,3,Maine,0.2778
+molnupiravir,3,Maryland,0.325
+molnupiravir,3,Massachusetts,0.392
+molnupiravir,3,Michigan,0.377
+molnupiravir,3,Minnesota,0.2632
+molnupiravir,3,Mississippi,0.4444
+molnupiravir,3,Missouri,0.4324
+molnupiravir,3,Montana,0.2
+molnupiravir,3,Nebraska,0.3182
+molnupiravir,3,Nevada,0.1695
+molnupiravir,3,New Hampshire,0.5
+molnupiravir,3,New Jersey,0.7095
+molnupiravir,3,New Mexico,0.4545
+molnupiravir,3,New York,0.3361
+molnupiravir,3,North Carolina,0.619
+molnupiravir,3,North Dakota,-1.0
+molnupiravir,3,Ohio,0.4524
+molnupiravir,3,Oklahoma,0.3333
+molnupiravir,3,Oregon,0.6444
+molnupiravir,3,Pennsylvania,0.3731
+molnupiravir,3,Rhode Island,0.125
+molnupiravir,3,South Carolina,0.25
+molnupiravir,3,South Dakota,1.0
+molnupiravir,3,Tennessee,0.5179
+molnupiravir,3,Texas,0.302
+molnupiravir,3,Utah,0.2
+molnupiravir,3,Vermont,0.3846
+molnupiravir,3,Virginia,0.4343
+molnupiravir,3,Washington,0.3952
+molnupiravir,3,West Virginia,0.6667
+molnupiravir,3,Wisconsin,0.4222
+molnupiravir,3,Wyoming,0.0
+remdesivir,1,Alabama,0.2723
+remdesivir,1,Alaska,0.1282
+remdesivir,1,Arizona,0.6847
+remdesivir,1,Arkansas,0.1786
+remdesivir,1,California,0.3145
+remdesivir,1,Colorado,0.2857
+remdesivir,1,Connecticut,0.2753
+remdesivir,1,Delaware,0.2982
+remdesivir,1,District of Columbia,0.2485
+remdesivir,1,Florida,0.3503
+remdesivir,1,Georgia,0.265
+remdesivir,1,Hawaii,0.092
+remdesivir,1,Idaho,0.2979
+remdesivir,1,Illinois,0.2314
+remdesivir,1,Indiana,0.2049
+remdesivir,1,Iowa,0.2459
+remdesivir,1,Kansas,0.2941
+remdesivir,1,Kentucky,0.2137
+remdesivir,1,Louisiana,0.3786
+remdesivir,1,Maine,0.3
+remdesivir,1,Maryland,0.3558
+remdesivir,1,Massachusetts,0.2584
+remdesivir,1,Michigan,0.2836
+remdesivir,1,Minnesota,0.3093
+remdesivir,1,Mississippi,0.28
+remdesivir,1,Missouri,0.2879
+remdesivir,1,Montana,0.0833
+remdesivir,1,Nebraska,0.1667
+remdesivir,1,Nevada,0.3774
+remdesivir,1,New Hampshire,0.0
+remdesivir,1,New Jersey,0.2857
+remdesivir,1,New Mexico,0.0506
+remdesivir,1,New York,0.2994
+remdesivir,1,North Carolina,0.2652
+remdesivir,1,North Dakota,0.4
+remdesivir,1,Ohio,0.2852
+remdesivir,1,Oklahoma,0.2353
+remdesivir,1,Oregon,0.2751
+remdesivir,1,Pennsylvania,0.289
+remdesivir,1,Rhode Island,0.3111
+remdesivir,1,South Carolina,0.2466
+remdesivir,1,South Dakota,0.2308
+remdesivir,1,Tennessee,0.3665
+remdesivir,1,Texas,0.3203
+remdesivir,1,Utah,0.2342
+remdesivir,1,Vermont,0.3143
+remdesivir,1,Virginia,0.2315
+remdesivir,1,Washington,0.3333
+remdesivir,1,West Virginia,0.3529
+remdesivir,1,Wisconsin,0.2086
+remdesivir,1,Wyoming,0.5
+remdesivir,2,Alabama,0.3333
+remdesivir,2,Alaska,0.0968
+remdesivir,2,Arizona,-0.0401
+remdesivir,2,Arkansas,-0.1489
+remdesivir,2,California,0.0154
+remdesivir,2,Colorado,0.0646
+remdesivir,2,Connecticut,-0.0181
+remdesivir,2,Delaware,-0.0135
+remdesivir,2,District of Columbia,0.0463
+remdesivir,2,Florida,0.0718
+remdesivir,2,Georgia,0.151
+remdesivir,2,Hawaii,-0.1176
+remdesivir,2,Idaho,0.3043
+remdesivir,2,Illinois,0.003
+remdesivir,2,Indiana,0.1475
+remdesivir,2,Iowa,0.0235
+remdesivir,2,Kansas,-0.0152
+remdesivir,2,Kentucky,0.2188
+remdesivir,2,Louisiana,0.1885
+remdesivir,2,Maine,-0.25
+remdesivir,2,Maryland,0.0246
+remdesivir,2,Massachusetts,0.063
+remdesivir,2,Michigan,0.1401
+remdesivir,2,Minnesota,0.0495
+remdesivir,2,Mississippi,0.0263
+remdesivir,2,Missouri,0.1111
+remdesivir,2,Montana,0.0571
+remdesivir,2,Nebraska,0.1071
+remdesivir,2,Nevada,0.0186
+remdesivir,2,New Hampshire,0.375
+remdesivir,2,New Jersey,0.1481
+remdesivir,2,New Mexico,-0.0698
+remdesivir,2,New York,0.0063
+remdesivir,2,North Carolina,-0.0371
+remdesivir,2,North Dakota,-0.0909
+remdesivir,2,Ohio,0.0191
+remdesivir,2,Oklahoma,0.2353
+remdesivir,2,Oregon,-0.1202
+remdesivir,2,Pennsylvania,0.0925
+remdesivir,2,Rhode Island,0.0526
+remdesivir,2,South Carolina,0.2034
+remdesivir,2,South Dakota,-0.0789
+remdesivir,2,Tennessee,0.7642
+remdesivir,2,Texas,0.0372
+remdesivir,2,Utah,0.0606
+remdesivir,2,Vermont,0.0357
+remdesivir,2,Virginia,0.0574
+remdesivir,2,Washington,-0.0347
+remdesivir,2,West Virginia,-0.2381
+remdesivir,2,Wisconsin,0.1788
+remdesivir,2,Wyoming,0.0
+remdesivir,3,Alabama,-0.0455
+remdesivir,3,Alaska,-0.7905
+remdesivir,3,Arizona,0.0517
+remdesivir,3,Arkansas,0.2
+remdesivir,3,California,0.1181
+remdesivir,3,Colorado,0.2019
+remdesivir,3,Connecticut,0.1765
+remdesivir,3,Delaware,0.0
+remdesivir,3,District of Columbia,0.2407
+remdesivir,3,Florida,-0.0111
+remdesivir,3,Georgia,0.1456
+remdesivir,3,Hawaii,-0.2353
+remdesivir,3,Idaho,0.3158
+remdesivir,3,Illinois,0.109
+remdesivir,3,Indiana,0.1818
+remdesivir,3,Iowa,-0.04
+remdesivir,3,Kansas,-0.1935
+remdesivir,3,Kentucky,0.3333
+remdesivir,3,Louisiana,-0.0521
+remdesivir,3,Maine,-0.1923
+remdesivir,3,Maryland,0.2727
+remdesivir,3,Massachusetts,0.0165
+remdesivir,3,Michigan,0.0407
+remdesivir,3,Minnesota,0.0125
+remdesivir,3,Mississippi,0.3333
+remdesivir,3,Missouri,-0.1429
+remdesivir,3,Montana,0.1538
+remdesivir,3,Nebraska,0.0968
+remdesivir,3,Nevada,0.1509
+remdesivir,3,New Hampshire,0.0303
+remdesivir,3,New Jersey,0.0397
+remdesivir,3,New Mexico,-0.1364
+remdesivir,3,New York,0.0071
+remdesivir,3,North Carolina,0.12
+remdesivir,3,North Dakota,0.2857
+remdesivir,3,Ohio,0.018
+remdesivir,3,Oklahoma,-0.0256
+remdesivir,3,Oregon,0.2405
+remdesivir,3,Pennsylvania,0.1111
+remdesivir,3,Rhode Island,-0.2222
+remdesivir,3,South Carolina,-0.0508
+remdesivir,3,South Dakota,0.6
+remdesivir,3,Tennessee,-0.0467
+remdesivir,3,Texas,0.0822
+remdesivir,3,Utah,-0.4737
+remdesivir,3,Vermont,-0.5714
+remdesivir,3,Virginia,-0.07
+remdesivir,3,Washington,0.4615
+remdesivir,3,West Virginia,-0.0968
+remdesivir,3,Wisconsin,0.2632
+remdesivir,3,Wyoming,0.6

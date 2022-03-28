@@ -1,0 +1,46 @@
+---
+title: "Tweet analysis"
+author: "Ning"
+date: "11/11/2021"
+output: pdf_document
+---
+
+```{r}
+library(usmap) #import the package
+library(ggplot2) #use ggplot2 to add layer for visualization
+library(tidyverse)
+library(dplyr)
+```
+```{r}
+
+dat <- read_csv("stance_geo_average.csv",col_types = cols(week = col_integer()))
+library(plyr) 
+dat$wave <- sprintf('wave %i', dat$wave)
+# dat <- rename(dat,c('positive_proportion'='positive proportion')) 
+dat <- rename(dat,c("average_stance"="average stance"))
+drug_names <- list('hcq'='Hydroxychloroquine',
+                 'ivermectin'='Ivermectin',
+                 'molnupiravir'='Molnupiravir',
+                 'remdesivir'='Remdesivir',
+                 "wave 1" = "Wave 1",
+                 "wave 2" = "Wave 2",
+                 "wave 3" = "Wave 3")
+drug_labeller <- function(variable,value){
+  return(drug_names[value])
+}
+
+head(dat)
+```
+```{r}
+p1 <- plot_usmap(data = dat,  values = "average stance") + 
+  scale_fill_binned(breaks=c(0, 0.25, 0.5, 0.75), type="viridis", option = "inferno", name = "Average sentiment", na.value="white", label = scales::comma) + 
+  theme(legend.position = "right",legend.key.size = 20)+
+  theme_void()+
+  facet_wrap(~ wave+drug, ncol=4, labeller = drug_labeller)+
+  theme(strip.text = element_text(size=20)) 
+p1
+
+```
+```{r}
+ggsave("average_stance.jpg", width = 15, height = 12, dpi=300, device="jpg")
+```

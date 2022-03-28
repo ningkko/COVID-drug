@@ -1,10 +1,10 @@
 # Exploring Time Trends and Public Opinions on COVID-19-related Therapeutics on Twitter
 
-This repo contains code and analyses results for [this paper](https://docs.google.com/document/d/1ylJTqALBGjcK-pmp5M-m6-me-Jqv9rz0OmQHXosd0EY/edit#)
+This repo contains code and analyses results for [this paper]()
 
 In this repo, we release the pipeline for analyzing public perception in drug use. Following the pipeline one sholud be able to analyze any drug.
 
-We also release our BERT stance model so it can be used in an off-the-shell fashion without training. Model available at [HuggingFace](@TODO). 
+We also release our BERT stance model so it can be used in an off-the-shell fashion without training. Model available at [HuggingFace](https://huggingface.co/ningkko/drug-stance-bert). 
 
 ### 1. Preprocessing
 We have all preprocssing steps summarized in [its own README](./preprocessing/README.md). Follow the instructions.
