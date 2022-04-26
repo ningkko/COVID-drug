@@ -20,3 +20,6 @@ Use processor.ipynb to process the data we got from stance detection, unify user
 
 ### 5. Content analysis
 Follow clustering.ipynb to cluster and visualize tweets. Use NER.ipynb to find NERs and visualize the results in word clouds.
+
+### 6. Demographic analysis
+Follow the README.md file inside `demographic_analysis` to replicate the demographic and political orientation inference and analysis.
