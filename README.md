@@ -2,9 +2,9 @@
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![arXiv](https://img.shields.io/badge/arXiv-2201.07281-b31b1b.svg)](https://arxiv.org/pdf/2206.14358)
 
-This repo contains the official code and analyses results for the paper <i>[Using Twitter Data to Understand Public Perceptions of Approved versus Off-label Use for COVID-19-related Medications](https://academic.oup.com/jamia/advance-article/doi/10.1093/jamia/ocac114/6625661)</i> accepted by JAMIA 2022. We release the following resources:
+This repo contains the official code and analyses results for the paper [Using Twitter Data to Understand Public Perceptions of Approved versus Off-label Use for COVID-19-related Medications](https://academic.oup.com/jamia/advance-article/doi/10.1093/jamia/ocac114/6625661), published at JAMIA, 2022. We release the following resources:
 - the NLP pipeline for analyzing public perception in drug use in this repository
-- our `drug-stance-bert` model in an off-the-shell fashion, available at [HuggingFace](https://huggingface.co/ningkko/drug-stance-bert). 
+- A RoBERTa-based drug stance detection model, `drug-stance-bert`, in an off-the-shell fashion, available at [HuggingFace](https://huggingface.co/ningkko/drug-stance-bert). 
 
 If you use our pipeline or models, please kindly cite our work with
 
