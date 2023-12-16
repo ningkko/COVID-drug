@@ -2,8 +2,8 @@
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![arXiv](https://img.shields.io/badge/arXiv-2201.07281-b31b1b.svg)](https://arxiv.org/pdf/2206.14358)
 
-This repo contains the official code and analyses results for the paper [Using Twitter Data to Understand Public Perceptions of Approved versus Off-label Use for COVID-19-related Medications](https://academic.oup.com/jamia/advance-article/doi/10.1093/jamia/ocac114/6625661), published at JAMIA, 2022. We release the following resources:
-- the NLP pipeline for analyzing public perception in drug use in this repository
+This repo contains the official code and analyses results for the paper [Using Twitter Data to Understand Public Perceptions of Approved versus Off-label Use for COVID-19-related Medications](https://academic.oup.com/jamia/advance-article/doi/10.1093/jamia/ocac114/6625661), published on JAMIA, 2022. We release the following resources:
+- the NLP pipeline for analyzing public perception of drug use in this repository
 - A RoBERTa-based drug stance detection model, `drug-stance-bert`, in an off-the-shell fashion, available at [HuggingFace](https://huggingface.co/ningkko/drug-stance-bert). 
 
 If you use our pipeline or models, please kindly cite our work with
@@ -26,7 +26,7 @@ If you use our pipeline or models, please kindly cite our work with
 ## NLP Pipeline
 
 ### 1. Preprocessing
-We have all preprocssing steps summarized in [its own README](./preprocessing/README.md). Follow the instructions.
+We have all preprocessing steps summarized in [its own README](./preprocessing/README.md). Follow the instructions.
 
 ### 2. Time trend analysis
 Time trend analysis is in the time_trend folder. Follow `Processor.ipynb` to generate data for plotting the trends, and then use the `plot_trend.py` file to plot.
